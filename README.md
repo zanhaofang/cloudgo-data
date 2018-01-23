@@ -11,7 +11,8 @@ b、运行mysql
 ![image](https://github.com/zanhaofang/cloudgo-data/blob/master/pics/pic2.png)
 
 c、创建数据库
-![image]()
+
+![image](https://github.com/zanhaofang/cloudgo-data/blob/master/pics/pic3.png)
 
 d、测试web服务
 
