@@ -4,7 +4,7 @@
 
 ## 2、实验过程
 a、启动容器
-![image]()
+![image](https://github.com/zanhaofang/cloudgo-data/blob/master/pics/pic1.png)
 
 b、运行mysql
 ![image]()
