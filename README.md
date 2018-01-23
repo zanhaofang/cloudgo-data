@@ -25,7 +25,8 @@ d、测试web服务
 ![image](https://github.com/zanhaofang/cloudgo-data/blob/master/pics/pic5.png)
 
 查询数据
-![image]()
+
+![image](https://github.com/zanhaofang/cloudgo-data/blob/master/pics/pic6.png)
 
 d、性能测试
 
