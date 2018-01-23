@@ -31,7 +31,8 @@ d、测试web服务
 d、性能测试
 
 database/sql性能测试
-![image]()
+
+![image](https://github.com/zanhaofang/cloudgo-data/blob/master/pics/pic7.png)
 
 xorm性能测试
 ![image]()
