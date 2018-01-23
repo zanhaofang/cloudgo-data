@@ -7,7 +7,7 @@ a、启动容器
 ![image](https://github.com/zanhaofang/cloudgo-data/blob/master/pics/pic1.png)
 
 b、运行mysql
-![image]()
+![image](https://github.com/zanhaofang/cloudgo-data/blob/master/pics/pic2.png)
 
 c、创建数据库
 ![image]()
