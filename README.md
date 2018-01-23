@@ -17,7 +17,8 @@ c、创建数据库
 d、测试web服务
 
 运行服务器
-![image]()
+
+![image](https://github.com/zanhaofang/cloudgo-data/blob/master/pics/pic4.png)
 
 插入数据
 ![image]()
