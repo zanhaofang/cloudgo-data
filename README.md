@@ -35,7 +35,8 @@ database/sql性能测试
 ![image](https://github.com/zanhaofang/cloudgo-data/blob/master/pics/pic7.png)
 
 xorm性能测试
-![image]()
+
+![image](https://github.com/zanhaofang/cloudgo-data/blob/master/pics/pic8.png)
 
 ## 3、比较
 xorm通过连写操作，可以通过很少的语句完成数据库操作，编程效率更高。
