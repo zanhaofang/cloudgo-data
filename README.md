@@ -21,7 +21,8 @@ d、测试web服务
 ![image](https://github.com/zanhaofang/cloudgo-data/blob/master/pics/pic4.png)
 
 插入数据
-![image]()
+
+![image](https://github.com/zanhaofang/cloudgo-data/blob/master/pics/pic5.png)
 
 查询数据
 ![image]()
